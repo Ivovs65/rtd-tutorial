@@ -6,6 +6,7 @@ API
 
    lumache
    
+   
 .. function:: format_exception(etype, value, tb[, limit=None])
 
    Format the exception with a traceback.
